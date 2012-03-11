@@ -1,6 +1,7 @@
 This repo contains a simple SCALA program for accepting a .csv file from the command 
-line and transforming it from a comma and new line separated file to only a comma separated file. Basically it
-eliminates the columns from a data table and leave a single row. 
+line and transforming it from a comma and new line separated file to  just comma separated. Basically it
+eliminates the columns from a data table and leaves a single row. The output will go into a new file so the original data
+is intact. 
 
 An example implementation would look like:
 

@@ -1,1 +1,8 @@
-First README commit. Testing.
+This repo contains a simple SCALA program for accepting a .csv file from the command 
+line and transforming it from a comma and new line separated file to only a comma separated file. Basically it
+eliminates the columns from a data table and leave a single row. 
+
+An example implementation would look like:
+
+> scala NewLineSep.scala <input file> <output filename>
+
